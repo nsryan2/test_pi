@@ -1,1 +1,6 @@
-This is a test repository to see if I can run concurrently on my Raspberry Pi and laptop
+Test
+
+Failures:
+Ruby isn't upgrading through sudo apt-get, through rvm, or through pip (which isn't installed).
+
+I was also not able to upgrade python beyond 2.7 through these methods.
